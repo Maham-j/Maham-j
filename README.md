@@ -34,9 +34,11 @@
 
 &nbsp;***Enjoy life and code!!*** 👋😊
 
-<p style="text-align: center; font-size: 18px;">
-  <span style="color: #0077b5; font-weight: bold;">Connect with me on </span>
-  <a href="https://www.linkedin.com/in/maham-jamil-268584267/" style="color: #0077b5; text-decoration: none; border-bottom: 2px solid #0077b5;">LinkedIn</a>
-</p>
+## Contact 
+<div> 
+  <a href="https://www.linkedin.com/in/maham-jamil-268584267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.hackerrank.com/profile/maham_jamil" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%23EA4335?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"></a>
+ </br>
+</br>
 
 
