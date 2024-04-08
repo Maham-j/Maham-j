@@ -1,27 +1,42 @@
-- 👋 Hi, I’m @Maham-j
-- Hi there, I'm @Maham-j!
+* Data Scientist
 
-- 👀 Welcome to my GitHub profile! I'm passionate about Data Science and constantly exploring
-- the exciting world of data analysis, machine learning, and predictive modeling. 
-- 🌱 Currently, I'm focused on expanding my knowledge and skills in Data Science.
--  I'm diving deep into various topics like data preprocessing, exploratory data analysis,
--  statistical modeling, and implementing machine learning algorithms. I'm also exploring
--  data visualization techniques to effectively communicate insights.
-- 💼 I'm open to collaborating on Data Science projects that involve solving real-world problems
-- and leveraging data-driven approaches. Feel free to reach out if you have any exciting projects or opportunities!
+<div align="center" >
+<a href="https://allmylinks.com/maham">
+  <img height=180 src="https://github-activity-readme-stats.vercel.app/api?username=Maham-j&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true"/>
+</a>
+<a href="https://allmylinks.com/maham">
+  <img src="https://github-readme-stats-assebc.vercel.app/api/top-langs/?username=Maham-j&layout=compact&theme=github_dark&hide_border=true&exclude_repo=github-readme-stats&hide=makefile,tex,jupyter%20notebook&langs_count=6"/>
+</a>
+</div>
 
-- 📚 In addition to my personal projects, I actively engage with the Data Science community.
-- I contribute to open-source projects, participate in discussions, and share my learnings through blog posts and articles.
--  I believe in the power of collaboration and continuous learning.
 
-- 🚀 Let's connect and explore the fascinating world of Data Science together.
-- Feel free to explore my repositories and pinned projects to see my work. Don't hesitate to reach out if you have any questions
--  or ideas for collaboration. I'm excited to be part of this thriving community!
+<div align="center" >
+<a href="https://github.com/Maham-j"><img src="https://streak-stats.demolab.com?user=Maham-j&theme=hacker" alt="Streak's Card" width="40%"></a>
+</div>
 
-- 📫 How to reach me [...](https://www.linkedin.com/in/maham-jamil-268584267)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/assebc/assebc/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/assebc/assebc/output/github-contribution-grid-snake.svg">
+</picture>
 
-    Happy coding and data exploration! ✨
-  
-Maham-j/Maham-j is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Backend Tools
+<a>&nbsp;<img align="center" alt="codeSTACKr | C" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | Python" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | MYSQL" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/></a>
+
+
+## Frontend Tools
+<a>&nbsp;<img align="center" alt="codeSTACKr | HTML" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | CSS" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></a>
+
+
+
+
+&nbsp;***Enjoy life and code!!*** 👋😊
+
+<p style="text-align: center; font-size: 18px;">
+  <span style="color: #0077b5; font-weight: bold;">Connect with me on </span>
+  <a href="https://www.linkedin.com/in/maham-jamil-268584267/" style="color: #0077b5; text-decoration: none; border-bottom: 2px solid #0077b5;">LinkedIn</a>
+</p>
+
+
