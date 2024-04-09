@@ -11,7 +11,7 @@
 
 
 <div align="center" >
-<a href="https://github.com/Maham-j"><img src="https://streak-stats.demolab.com?user=Maham-j&theme=hacker" alt="Streak's Card" width="40%"></a>
+<a href="https://github.com/Maham-j"><img src="https://streak-stats.demolab.com?user=Maham-j&theme=hacker" alt="Streak's Card" width="45%"></a>
 </div>
 
 <picture>
