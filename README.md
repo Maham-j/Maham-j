@@ -31,13 +31,19 @@
 
 
 
-
 &nbsp;***Enjoy life and code!!*** 👋😊
 
 ## Contact 
 <div> 
-  <a href="https://www.linkedin.com/in/maham-jamil-268584267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://www.hackerrank.com/profile/maham_jamil" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%23EA4335?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/maham-jamil-268584267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.hackerrank.com/profile/maham_jamil" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"></a>  
+  <a href="https://leetcode.com/mahamjamil596/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%23F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white" target="_blank"></a>  
+  <a href="https://replit.com/@MahamJamil2" target="_blank"><img src="https://img.shields.io/badge/-Replit-%23667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>  
+  <a href="https://learn.microsoft.com/en-gb/users/mahamjamil-9056/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft-%230078D4?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
+
+
+
+  
  </br>
 </br>
 
