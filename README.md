@@ -14,9 +14,7 @@
 <a href="https://github.com/Maham-j"><img src="https://streak-stats.demolab.com?user=Maham-j&theme=hacker" alt="Streak's Card" width="45%"></a>
 </div>
 
-## snake eating my contribution graph
-![snake gif](https://github.com/Maham-j/Maham-j/blob/output/github-contribution-grid-snake.svg)
-
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maham-j/Maham-j/output/github-contribution-grid-snake-dark.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Maham-j/Maham-j/output/github-contribution-grid-snake.svg"> </picture>
 
 
 ## Backend Tools
