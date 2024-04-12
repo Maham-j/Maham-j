@@ -14,7 +14,10 @@
 <a href="https://github.com/Maham-j"><img src="https://streak-stats.demolab.com?user=Maham-j&theme=hacker" alt="Streak's Card" width="45%"></a>
 </div>
 
-<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maham-j/Maham-j/output/github-contribution-grid-snake-dark.svg"> <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Maham-j/Maham-j/output/github-contribution-grid-snake.svg"> </picture>
+<picture> 
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/assebc/assebc/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/assebc/assebc/output/github-contribution-grid-snake.svg"> 
+</picture>
 
 
 ## Backend Tools
