@@ -22,6 +22,9 @@
 <a>&nbsp;<img align="center" alt="codeSTACKr | MYSQL" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/></a>
 
 
+
+
+
 ## Frontend Tools
 <a>&nbsp;<img align="center" alt="codeSTACKr | HTML" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | CSS" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></a>
@@ -31,6 +34,7 @@
 <a>&nbsp;<img align="center" alt="codeSTACKr | Oracle" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | PyCharm" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Git Bash" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/></a>
+
 
 
 &nbsp;***Enjoy life and code!!*** 👋😊
