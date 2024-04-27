@@ -25,6 +25,15 @@
 ## Frontend Tools
 <a>&nbsp;<img align="center" alt="codeSTACKr | HTML" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | CSS" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | VSCode" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | Jupyter Notebook" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/518px-Jupyter_logo.svg.png"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | GitHub" height="30px" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | Git Bash" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/39/Git-logo.svg"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | Oracle" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Oracle_logo.svg/640px-Oracle_logo.svg.png"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | PyCharm" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg"/></a>
+
+
+
 
 
 
@@ -36,6 +45,7 @@
   <a href="https://www.hackerrank.com/profile/maham_jamil" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"></a>  
   <a href="https://leetcode.com/mahamjamil596/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%23F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white" target="_blank"></a>  
   <a href="https://replit.com/@MahamJamil2" target="_blank"><img src="https://img.shields.io/badge/-Replit-%23667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>  
+  <a href="https://www.reddit.com/user/Ancient-Commission99" target="_blank"><img src="https://img.shields.io/badge/-Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
   <a href="https://learn.microsoft.com/en-gb/users/mahamjamil-9056/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft-%230078D4?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
 
 
