@@ -29,8 +29,8 @@
 <a>&nbsp;<img align="center" alt="codeSTACKr | CSS" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | VSCode" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | GitHub" height="30px" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | Jupyter Notebook" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | Oracle" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | Jupyter Notebook" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | Oracle" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | PyCharm" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Git Bash" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Markdown" height="30px"  width="40px" src="https://github.com/Maham-j/Maham-j/blob/main/pluginIcon.png"/></a>
