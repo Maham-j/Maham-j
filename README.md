@@ -14,7 +14,7 @@
 <a href="https://github.com/Maham-j"><img src="https://streak-stats.demolab.com?user=Maham-j&theme=hacker" alt="Streak's Card" width="45%"></a>
 </div>
 
- ![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/Maham-j/Maham-j/blob/output/github-contribution-grid-snake.svg)
 
 ## Backend Tools
 <a>&nbsp;<img align="center" alt="codeSTACKr | C" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>
