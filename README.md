@@ -20,7 +20,7 @@
 <a>&nbsp;<img align="center" alt="codeSTACKr | C" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Python" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | MYSQL" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | ASM" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/asm/asm-original.svg"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | ASM" height="30px"  width="40px" src="https://github.com/Maham-j/Maham-j/blob/main/1658763190886.png"/></a>
 
 
 
