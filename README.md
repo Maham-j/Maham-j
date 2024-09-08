@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://github.com/sssfasih">
+  <a href="https://github.com/Maham-j">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=9e4c98&center=true&repeat=false&width=435&lines=Maham+Jamil" alt="Maham Jamil" /></a>
 
   <a>
@@ -37,20 +37,12 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
 <!-- Container for the stats boxes -->
 ### **_<img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="40px"> &nbsp; GitHub Profile Stats_**
-  <div>
-    <a href="https://allmylinks.com/maham">
-      <img height=180 src="https://github-activity-readme-stats.vercel.app/api?username=Maham-j&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true"/>
-    </a>
-  </div>
 
-  <!-- Second stats box -->
-  <div>
-    <a href="https://allmylinks.com/maham">
-      <img src="https://github-readme-stats-assebc.vercel.app/api/top-langs/?username=Maham-j&layout=compact&theme=github_dark&hide_border=true&exclude_repo=github-readme-stats&hide=makefile,tex,jupyter%20notebook&langs_count=6"/>
-    </a>
-  </div>
+| GitHub Stats | Streak Stats |
+|--------------|--------------|
+| ![](https://github-activity-readme-stats.vercel.app/api?username=Maham-j&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true) | ![](https://github-readme-stats-assebc.vercel.app/api/top-langs/?username=Maham-j&layout=compact&theme=github_dark&hide_border=true&exclude_repo=github-readme-stats&hide=makefile,tex,jupyter%20notebook&langs_count=6) |
 
-</div>
+ 
 
 
 
