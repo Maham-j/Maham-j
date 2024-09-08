@@ -50,7 +50,8 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
 <!--  streak and top -->
  
-![](https://streak-stats.demolab.com?user=Maham-j&theme=hacker )  ![](https://github-contributor-stats.vercel.app/api?username=Maham-jh&limit=5&theme=flat&combine_all_yearly_contributions=true) 
+![](https://streak-stats.demolab.com?user=Maham-j&theme=hacker )  ![](https://github-contributor-stats.vercel.app/api?username=Maham-j&limit=5&theme=flat&combine_all_yearly_contributions=true
+) 
 
  <!--  snake -->
  
