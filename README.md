@@ -33,6 +33,8 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <p>- 📫 How to reach me: mahamjamil109@gmail.com</p>
 </div>
 
+<hr></hr>
+
 <div align="left" >
 <a href="https://allmylinks.com/maham">
   <img height=180 src="https://github-activity-readme-stats.vercel.app/api?username=Maham-j&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true"/>
