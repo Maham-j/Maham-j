@@ -67,7 +67,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
   <img src="https://streak-stats.demolab.com?user=Maham-j&theme=hacker" width="500" height="200" />
 
   <!-- Second image with adjusted size to match the first -->
-  <img src="https://github-contributor-stats.vercel.app/api?username=Maham-j&limit=5&theme=flat&combine_all_yearly_contributions=true" width="500" height="200"  />
+ <img src="https://github-contributor-stats.vercel.app/api?username=Maham-j&limit=5&theme=dark&combine_all_yearly_contributions=true" width="500" height="200" />
 
 </div>
 
