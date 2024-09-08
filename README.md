@@ -36,7 +36,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <hr></hr>
 
 <!-- Container for the stats boxes -->
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div style="display: flex; gap: 20px;">
 
   <!-- First stats box -->
   <div>
@@ -53,6 +53,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
   </div>
 
 </div>
+
 
 
 
