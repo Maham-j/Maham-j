@@ -7,11 +7,11 @@
 </p>
 
 <div align="center">
-  <a href="https://profile-summary-for-github.com/user/sssfasih"><img alt="All Repositories" title="Detailed GitHub Statistics" src="https://custom-icon-badges.demolab.com/badge/Detailed%20GitHub%20Statistics-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://profile-summary-for-github.com/user/Maham-j"><img alt="All Repositories" title="Detailed GitHub Statistics" src="https://custom-icon-badges.demolab.com/badge/Detailed%20GitHub%20Statistics-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </div>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=sssfasih.sssfasih&" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Maham-j.Maham-j&" />
 </div>
 <br/>
 
