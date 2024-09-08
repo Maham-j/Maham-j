@@ -3,7 +3,7 @@
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=9e4c98&center=true&repeat=false&width=435&lines=Maham+Jamil" alt="Maham Jamil" /></a>
 
   <a>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Data+Scientist;Gold+Microsoft+Learn+Student+Ambassador;AI+Enthusiast&font=Fira%20Code&center=true&width=600&height=45&color=9e4c98&vCenter=true&pause=100&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Data+Scientist;;Data+Enthusiast&font=Fira%20Code&center=true&width=600&height=45&color=9e4c98&vCenter=true&pause=100&size=22" /></a>
 </p>
 
 <div align="center" >
