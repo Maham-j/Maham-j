@@ -6,6 +6,33 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=I'm+Data+Scientist;;Data+Enthusiast&font=Fira%20Code&center=true&width=600&height=45&color=9e4c98&vCenter=true&pause=100&size=22" /></a>
 </p>
 
+<div align="center">
+  <a href="https://profile-summary-for-github.com/user/sssfasih"><img alt="All Repositories" title="Detailed GitHub Statistics" src="https://custom-icon-badges.demolab.com/badge/Detailed%20GitHub%20Statistics-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=sssfasih.sssfasih&" />
+</div>
+<br/>
+
+<!--Intro Images-->
+<img align="right" width="248px"
+src="https://cdn.dribbble.com/users/1579322/screenshots/6587273/blue_boy_typing_nothought.gif" alt="coding" /> 
+
+<!--<img align="right"  height="250px"
+src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" alt="coding" />-->
+
+<!--<img align="right" width="280px" height="220px"
+src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" alt="coding" />-->
+
+
+<!--Intro-->
+<div align="left" width="20%">
+<!--- 🌱 I’m currently learning Full stack development, using Javascript and Python frameworks.-->
+<p>- 🌱 I share what I learn, and learn while sharing..</p>
+<p>- 📫 How to reach me: sssfasih@gmail.com</p>
+</div>
+
 <div align="center" >
 <a href="https://allmylinks.com/maham">
   <img height=180 src="https://github-activity-readme-stats.vercel.app/api?username=Maham-j&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true"/>
