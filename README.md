@@ -35,16 +35,25 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
 <hr></hr>
 
-<div align="left" >
-<a href="https://allmylinks.com/maham">
-  <img height=180 src="https://github-activity-readme-stats.vercel.app/api?username=Maham-j&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true"/>
-</a>
-</div>  
-<div <  align="right" >
-<a href="https://allmylinks.com/maham">
-  <img src="https://github-readme-stats-assebc.vercel.app/api/top-langs/?username=Maham-j&layout=compact&theme=github_dark&hide_border=true&exclude_repo=github-readme-stats&hide=makefile,tex,jupyter%20notebook&langs_count=6"/>
-</a>
+<!-- Container for the stats boxes -->
+<div style="display: flex; justify-content: space-between; gap: 20px;">
+
+  <!-- First stats box -->
+  <div>
+    <a href="https://allmylinks.com/maham">
+      <img height=180 src="https://github-activity-readme-stats.vercel.app/api?username=Maham-j&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true"/>
+    </a>
+  </div>
+
+  <!-- Second stats box -->
+  <div>
+    <a href="https://allmylinks.com/maham">
+      <img src="https://github-readme-stats-assebc.vercel.app/api/top-langs/?username=Maham-j&layout=compact&theme=github_dark&hide_border=true&exclude_repo=github-readme-stats&hide=makefile,tex,jupyter%20notebook&langs_count=6"/>
+    </a>
+  </div>
+
 </div>
+
 
 
 <div align="center" >
