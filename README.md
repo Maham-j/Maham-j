@@ -48,15 +48,12 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
  ![](https://github-activity-readme-stats.vercel.app/api?username=Maham-j&include_all_commits=true&count_private=true&show_icons=true&theme=github_dark&hide_border=true)  ![](https://github-readme-stats-assebc.vercel.app/api/top-langs/?username=Maham-j&layout=compact&theme=github_dark&hide_border=true&exclude_repo=github-readme-stats&hide=makefile,tex,jupyter%20notebook&langs_count=6) 
 
+<!--  streak and top -->
  
+![](https://streak-stats.demolab.com?user=Maham-j&theme=hacker )  ![](https://github-contributor-stats.vercel.app/api?username=Maham-jh&limit=5&theme=flat&combine_all_yearly_contributions=true) 
 
-
-
-
-<div align="center" >
-<a href="https://github.com/Maham-j"><img src="https://streak-stats.demolab.com?user=Maham-j&theme=hacker" alt="Streak's Card" width="45%"></a>
-</div>
-
+ <!--  snake -->
+ 
  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Maham-j/Maham-j/output/github-contribution-grid-snake.svg" />
 
 ## Backend Tools
