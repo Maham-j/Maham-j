@@ -31,7 +31,7 @@ src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357c
 <!--<img align="right" width="280px" height="220px"
 src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" alt="coding" />-->
 
-
+<br/>
 <!--Intro-->
 <div align="left" width="30%">
 <!--- 🌱 I’m currently learning Full stack development, using Javascript and Python frameworks.-->
