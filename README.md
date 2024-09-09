@@ -135,7 +135,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
  <!--  snake -->
  
- <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Maham-j/Maham-j/output/github-contribution-grid-snake.svg" />
+ <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Maham-j/Maham-j/output/github-contribution-grid-snake-dark.svg" />
 
 <!--Graph-->
  <div align="center" >
