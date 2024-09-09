@@ -72,6 +72,45 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <a>&nbsp;<img align="center" alt="codeSTACKr | Anaconda" height="30px" width="50px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Git" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/></a>
 
+<h3 style="padding-bottom: 20px;">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> &nbsp; My Favorite Tools
+</h3>
+<hr style="border: none; height: 1px; background-color: black; margin-bottom: 30px;" />
+
+<br><br/>
+<div style="padding-top: 20px;">
+  ## **_Programming and Markup Languages_**
+
+  <a><img align="center" alt="codeSTACKr | C" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>
+  <a><img align="center" alt="codeSTACKr | Python" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/></a>
+  <a><img align="center" alt="codeSTACKr | HTML" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a>
+  <a><img align="center" alt="codeSTACKr | CSS" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/></a>
+  <a><img align="center" alt="codeSTACKr | MYSQL" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/></a>
+  <a><img align="center" alt="codeSTACKr | ASM" height="45px"  width="50px" src="https://github.com/Maham-j/Maham-j/blob/main/asm_logo_resized_transparent.png"/></a>
+  <a><img align="center" alt="codeSTACKr | Markdown" height="30px"  width="40px" src="https://github.com/Maham-j/Maham-j/blob/main/pluginIcon.png"/></a>
+</div>
+
+<br><br/>
+<div style="padding-top: 20px;">
+  ## **_Databases_**
+
+  <a>&nbsp;<img align="center" alt="codeSTACKr | Oracle" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"/></a>
+  <a>&nbsp;<img align="center" alt="codeSTACKr | SQL" height="40px" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/></a>
+  <a>&nbsp;<img align="center" alt="codeSTACKr | SQLite" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg"/></a>
+</div>
+
+<br><br/>
+<div style="padding-top: 20px;">
+  ## **_Software and Tools_**
+  
+  <a>&nbsp;<img align="center" alt="codeSTACKr | VSCode" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/></a>
+  <a>&nbsp;<img align="center" alt="codeSTACKr | GitHub Desktop" height="30px" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a>
+  <a>&nbsp;<img align="center" alt="codeSTACKr | Jupyter Notebook" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/></a>
+  <a>&nbsp;<img align="center" alt="codeSTACKr | PyCharm" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/></a>
+  <a>&nbsp;<img align="center" alt="codeSTACKr | Google Colab" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/></a>
+  <a>&nbsp;<img align="center" alt="codeSTACKr | Anaconda" height="30px" width="50px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"/></a>
+  <a>&nbsp;<img align="center" alt="codeSTACKr | Git" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/></a>
+</div>
 
 
 
