@@ -40,9 +40,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <br/>
 <br/>
 <div>
- <h3 style="font-size: 36px; font-weight: bold;">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> &nbsp; My Favorite Tools
-</h3>
+<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> &nbsp; My Favorite Tools </h3>
 </div>
 
 ## **_Programming and Markup Languages_**
