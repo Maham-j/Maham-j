@@ -23,7 +23,7 @@
 
 <!--Intro Images-->
 <img align="right" width="248px"
-src="https://dribbble.com/shots/15719501-Character-Animation/attachments/7520684?mode=media" alt="coding" /> 
+src="https://github.com/Maham-j/Maham-j/blob/main/image_processing20210525-15929-px7vao.gif" alt="coding" /> 
 
 <!--<img align="right"  height="250px"
 src="https://camo.githubusercontent.com/0eda36005abd9bf7e72584afc2f6ef1e808a357cb65a07fc2fe5036ba5268df7/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65382f66342f35332f65386634353334363961336563393765636433353464663436356437333931332e676966" alt="coding" />-->
