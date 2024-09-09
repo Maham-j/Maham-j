@@ -81,7 +81,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Maham-j/Maham-j/output/github-contribution-grid-snake.svg" />
 
 ### **_<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30px"> &nbsp; Programming and Markup Languages_**
-<hr></hr>
+<hr style="border: none; height: 1px; background-color: black;" />
 
 <a><img align="center" alt="codeSTACKr | C" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>
 <a><img align="center" alt="codeSTACKr | Python" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/></a>
@@ -94,7 +94,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
 
 ### **_<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5vOXVtZGh4a2NydmZpc3p3NXNwc3YyZ2w0bWEzYXRxdmp5YmhneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jOzq6q92RYEGoJnoV3/giphy.gif" width="30px"> &nbsp; Databases_**
-<hr></hr>
+<hr style="border: none; height: 1px; background-color: black;" />
 
 <a>&nbsp;<img align="center" alt="codeSTACKr | Oracle" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | SQL" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/></a>
@@ -105,7 +105,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
 
 ### **_<img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="30px"> &nbsp; Software and Tools_**
-<hr></hr>
+<hr style="border: none; height: 1px; background-color: black;" />
 
 <a>&nbsp;<img align="center" alt="codeSTACKr | VSCode" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | GitHub" height="30px" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a>
