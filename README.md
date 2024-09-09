@@ -39,6 +39,18 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <br/>
 <br/>
 <br/>
+
+
+## Contact 
+<div> 
+  <a href="https://www.linkedin.com/in/maham-jamil-268584267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.hackerrank.com/profile/maham_jamil" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"></a>  
+  <a href="https://leetcode.com/mahamjamil596/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%23F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white" target="_blank"></a>  
+  <a href="https://replit.com/@MahamJamil2" target="_blank"><img src="https://img.shields.io/badge/-Replit-%23667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>  
+  <a href="https://www.reddit.com/user/Ancient-Commission99" target="_blank"><img src="https://img.shields.io/badge/-Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
+  <a href="https://learn.microsoft.com/en-gb/users/mahamjamil-9056/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft-%230078D4?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
+
+
 <div>
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px"> &nbsp; My Favorite Tools </h3>
 <hr></hr>
@@ -132,16 +144,6 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
 &nbsp;***Enjoy life and code!!*** 👋😊
 
-## Contact 
-<div> 
-  <a href="https://www.linkedin.com/in/maham-jamil-268584267" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
-  <a href="https://www.hackerrank.com/profile/maham_jamil" target="_blank"><img src="https://img.shields.io/badge/-HackerRank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" target="_blank"></a>  
-  <a href="https://leetcode.com/mahamjamil596/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-%23F89F1B?style=for-the-badge&logo=LeetCode&logoColor=white" target="_blank"></a>  
-  <a href="https://replit.com/@MahamJamil2" target="_blank"><img src="https://img.shields.io/badge/-Replit-%23667881?style=for-the-badge&logo=replit&logoColor=white" target="_blank"></a>  
-  <a href="https://www.reddit.com/user/Ancient-Commission99" target="_blank"><img src="https://img.shields.io/badge/-Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
-  <a href="https://learn.microsoft.com/en-gb/users/mahamjamil-9056/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft-%230078D4?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
-
-## maham
 
   
  </br>
