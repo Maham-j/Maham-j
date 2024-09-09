@@ -105,7 +105,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
 
 ### **_<img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="30px"> &nbsp; Software and Tools_**
-<hr style="border: none; height: 1px; background-color: black;" />
+<div>
 
 <a>&nbsp;<img align="center" alt="codeSTACKr | VSCode" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | GitHub Desktop" height="30px" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a>
@@ -114,7 +114,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <a>&nbsp;<img align="center" alt="codeSTACKr | Google Colab" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Anaconda" height="30px" width="50px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Git" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/></a>
-
+</div>
 
 
 
