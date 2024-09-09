@@ -104,8 +104,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
 
 
-### **_<img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="30px"> &nbsp; Software and Tools_**
-<div>
+## **_<img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="30px"> &nbsp; Software and Tools_**
 
 <a>&nbsp;<img align="center" alt="codeSTACKr | VSCode" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | GitHub Desktop" height="30px" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a>
@@ -114,7 +113,6 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <a>&nbsp;<img align="center" alt="codeSTACKr | Google Colab" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Anaconda" height="30px" width="50px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Git" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/></a>
-</div>
 
 
 
@@ -129,10 +127,11 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
   <a href="https://www.reddit.com/user/Ancient-Commission99" target="_blank"><img src="https://img.shields.io/badge/-Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
   <a href="https://learn.microsoft.com/en-gb/users/mahamjamil-9056/" target="_blank"><img src="https://img.shields.io/badge/-Microsoft-%230078D4?style=for-the-badge&logo=microsoft&logoColor=white" target="_blank"></a>
 
-
+## maham
 
   
  </br>
 </br>
+
 
 
