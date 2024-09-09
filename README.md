@@ -22,7 +22,7 @@
 
 
 <!--Intro Images-->
-<img align="right" width="248px"
+<img align="right" width="500px"
 src="https://github.com/Maham-j/Maham-j/blob/main/image_processing20210525-15929-px7vao.gif" alt="coding" /> 
 
 <!--<img align="right"  height="250px"
