@@ -59,16 +59,18 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
   <a><img align="center" alt="codeSTACKr | Markdown" height="30px"  width="40px" src="https://github.com/Maham-j/Maham-j/blob/main/pluginIcon.png"/></a>
 <p>
 
-<br><br/>
-## **_Databases_**
+<!--Databases and Cloud Hosting  -->
+
+### **_<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5vOXVtZGh4a2NydmZpc3p3NXNwc3YyZ2w0bWEzYXRxdmp5YmhneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jOzq6q92RYEGoJnoV3/giphy.gif" width="30px"> &nbsp; Databases _**
 
 <a>&nbsp;<img align="center" alt="codeSTACKr | Oracle" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | SQL" height="40px" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | SQLite" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg"/></a>
 
 
-<br><br/>
-## **_Software and tools_**
+<!--  Software and Tools-->
+
+### **_<img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="30px"> &nbsp; Software and Tools_**
 <a>&nbsp;<img align="center" alt="codeSTACKr | VSCode" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | GitHub Desktop" height="30px" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Jupyter Notebook" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/></a>
