@@ -35,8 +35,9 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <!--Intro-->
 <div align="left" width="30%">
 <!--- 🌱 I’m currently learning Full stack development, using Javascript and Python frameworks.-->
-<p>- 🌱 I share what I learn, and learn while sharing..</p>
-<p>- 📫 How to reach me: mahamjamil109@gmail.com</p>
+<p>. 🌱 I share what I learn, and learn while sharing..</p>
+<p>. 📬 Connect with me at <a href="mailto:mahamjamil109@gmail.com">mahamjamil109@gmail.com</a>.
+<p>. 💡 Embracing growth through shared knowledge and learning together.
 </div>
 <br/>
 <br/>
