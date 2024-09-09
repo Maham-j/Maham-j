@@ -119,6 +119,16 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
  
  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/Maham-j/Maham-j/output/github-contribution-grid-snake.svg" />
 
+ <div align="center" >
+
+<hr></hr>
+
+  <br/>
+
+![sssfasih's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Maham-j&bg_color=ffffff&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)
+
+</div>
+
 
 &nbsp;***Enjoy life and code!!*** 👋😊
 
