@@ -82,6 +82,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
 ### **_<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30px"> &nbsp; Programming and Markup Languages_**
 <hr></hr>
+<br></br>
 <a>&nbsp;<img align="center" alt="codeSTACKr | C" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Python" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | HTML" height="30px"  width="40px" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/></a>
