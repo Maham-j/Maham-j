@@ -128,7 +128,11 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
   <!-- Second image with adjusted size to match the first -->
  <img src="https://github-contributor-stats.vercel.app/api?username=Maham-j&limit=5&theme=dark&combine_all_yearly_contributions=true" width="350" height="199" />
+</div>
 
+<div style="display: inline-block; position: relative; width: 350px; height: 199px;">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Maham-j&limit=5&theme=dark&combine_all_yearly_contributions=true" 
+       style="border: 3px solid #00FF00; width: 100%; height: 100%; object-fit: cover;" />
 </div>
 
  
