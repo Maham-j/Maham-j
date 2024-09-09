@@ -80,11 +80,13 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <a>&nbsp;<img align="center" alt="codeSTACKr | Git" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/></a>
 
 
+</div>
 
-<!-- Container for the stats boxes -->
-### **_<img src="https://media.giphy.com/media/Th4eDUkNM3BYRXnzQi/giphy.gif" width="40px"> &nbsp; GitHub Profile Stats_**
+<!-- Github Stats and Activity -->
 
+**_<h3><img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="50px"> &nbsp; Github Stats and Activity</h3>_**
 
+<hr></hr>
 
 <!-- Container with flexbox to align images side by side -->
 <div style="display: flex; justify-content: space-between; align-items: center;">
