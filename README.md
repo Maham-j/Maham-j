@@ -1,5 +1,5 @@
 <!--Intro -->
-<p align="center">
+<p align="center"> 
   <a href="https://github.com/Maham-j">
    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&duration=1&pause=10000000&color=9e4c98&center=true&repeat=false&width=435&lines=Maham+Jamil" alt="Maham Jamil" /></a>
 
