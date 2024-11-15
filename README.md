@@ -100,6 +100,23 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <a>&nbsp;<img align="center" alt="codeSTACKr | Anaconda" height="30px" width="50px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Git" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/></a>
 
+<!-- Libraries and Frameworks -->
+
+### **_<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30px"> &nbsp; Libraries and Frameworks_**
+
+<p>
+
+<a><img align="center" alt="NumPy" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"/></a>
+<a><img align="center" alt="Matplotlib" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/></a>
+<a><img align="center" alt="Pandas" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg"/></a>
+<a><img align="center" alt="Scikit-learn" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/></a>
+<a><img align="center" alt="SciPy" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/scipy/scipy-original.svg"/></a>
+<a><img align="center" alt="TensorFlow" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg"/></a>
+<a><img align="center" alt="PyTorch" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg"/></a>
+
+</p>
+
+
 
 </div>
 
