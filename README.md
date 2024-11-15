@@ -108,7 +108,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
 <a><img align="center" alt="NumPy" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"/></a>
 <a><img align="center" alt="Matplotlib" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/></a>
-<a><img align="center" alt="SciPy" height="30px" width="40px" src="https://raw.githubusercontent.com/your-username/your-repo/main/SCIPY_2.svg"/></a>
+<a><img align="center" alt="SciPy" height="30px" width="40px" src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg"/></a>
 
 </p>
 
