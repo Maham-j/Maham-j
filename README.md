@@ -77,6 +77,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
   <a><img align="center" alt="codeSTACKr | Markdown" height="30px"  width="40px" src="https://github.com/Maham-j/Maham-j/blob/main/pluginIcon.png"/></a>
 <p>  
 <br/>
+<br/>
 
 <!--Databases and Cloud Hosting  -->
 
@@ -85,6 +86,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <a>&nbsp;<img align="center" alt="codeSTACKr | Oracle" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | SQL" height="40px" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | SQLite" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg"/></a>  
+<br/>
 <br/>
 
 
@@ -99,6 +101,8 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <a>&nbsp;<img align="center" alt="codeSTACKr | Google Colab" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Anaconda" height="30px" width="50px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Git" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/></a>
+<br/>
+<br/>
 <br/>
 
 <!-- Libraries and Frameworks -->
