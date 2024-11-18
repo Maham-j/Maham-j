@@ -102,6 +102,8 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <a>&nbsp;<img align="center" alt="codeSTACKr | Anaconda" height="30px" width="50px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Git" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/></a>
 <a>&nbsp;<img align="center" alt="Power BI" height="30px" width="40px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Desktop.svg?raw=true"/></a>
+<a>&nbsp;<img align="center" alt="MATLAB" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg?raw=true"/></a>
+
 <br/>
 <br/>
 <br/>
