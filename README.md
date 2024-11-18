@@ -115,6 +115,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <a><img align="center" alt="codeSTACKr | NumPy" height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg"/></a>
 <a><img align="center" alt="codeSTACKr | Matplotlib" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/></a>
 <a><img align="center" alt="codeSTACKr | SciPy" height="40px" width="40px" src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg"/></a>
+<a>&nbsp;<img align="center" alt="Pandas" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg"/></a>
 
 </p>
 
