@@ -118,7 +118,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <a><img align="center" alt="codeSTACKr | Matplotlib" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/></a>
 <a><img align="center" alt="codeSTACKr | SciPy" height="40px" width="40px" src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg"/></a>
 <a><img align="center" alt="codeSTACKr | Pandas" height="50px" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg"/></a>
-<a><img align="center" alt="codeSTACKr | Streamlit" height="70px" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png"/></a>
+<a><img align="center" alt="codeSTACKr | Streamlit" height="70px" width="90px" src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mk8aoa97px9xhi723o1.jpg"/></a>
 <a><img align="center" alt="codeSTACKr | Plotly" height="70px" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png"/></a>
 <a><img align="center" alt="codeSTACKr | Seaborn" height="70px" width="90px" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"/></a>
 
