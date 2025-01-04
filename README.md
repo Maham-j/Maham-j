@@ -118,6 +118,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <a><img align="center" alt="codeSTACKr | Matplotlib" height="40px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg"/></a>
 <a><img align="center" alt="codeSTACKr | SciPy" height="40px" width="40px" src="https://raw.githubusercontent.com/scipy/scipy/main/doc/source/_static/logo.svg"/></a>
 <a><img align="center" alt="codeSTACKr | Pandas" height="50px" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/2/22/Pandas_mark.svg"/></a>
+<a><img align="center" alt="codeSTACKr | Streamlit" height="50px" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/7/77/Streamlit-logo-primary-colormark-darktext.png"/></a>
 [![Streamlit Logo](https://upload.wikimedia.org/wikipedia/commons/7/7e/Streamlit_logo.svg)](https://streamlit.io)
 [![Seaborn Logo](https://upload.wikimedia.org/wikipedia/commons/8/84/Seaborn_logo.svg)](https://seaborn.pydata.org)
 [![Plotly Logo](https://upload.wikimedia.org/wikipedia/commons/4/46/Plotly_logo.png)](https://plotly.com)
