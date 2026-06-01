@@ -159,7 +159,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
   <!-- Second image with adjusted size to match the first -->
  <img src="https://github-contributor-stats.vercel.app/api?username=Maham-j&limit=5&theme=dark&combine_all_yearly_contributions=true" width="350" height="199" />
- <img src="https://streak-stats.demolab.com/?user=Maham-j&theme=dark" width="350" height="199" />
+ <img src="https://YOUR-OWN-VERCEL-URL.vercel.app/api?username=Maham-j&show_icons=true&theme=dark" width="350" height="199" />
 </div>
 
 
