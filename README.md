@@ -74,6 +74,8 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <a>&nbsp;<img align="center" alt="Docker" height="40px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></a>
 <br/>
 <br/>
+<br/>
+
 
 <!--### **_<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30px"> &nbsp; Programming and Markup Languages_**-->
 ### Programming and Markup Languages
@@ -88,7 +90,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
   <a><img align="center" alt="codeSTACKr | Markdown" height="30px"  width="40px" src="https://github.com/Maham-j/Maham-j/blob/main/pluginIcon.png"/></a>
 <p>  
 <br/>
-<br/>
+
 
 <!--Databases and Cloud Hosting  -->
 
@@ -99,6 +101,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <a>&nbsp;<img align="center" alt="codeSTACKr | SQLite" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg"/></a> 
 <a>&nbsp;<img align="center" alt="codeSTACKr | PostgreSQL" height="40px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | MS SQL Server" height="40px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/></a>
+<br/>
 <br/>
 <br/>
 
@@ -119,7 +122,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
 <br/>
 <br/>
-<br/>
+
 
 <!-- Libraries and Frameworks -->
 
