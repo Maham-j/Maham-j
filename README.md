@@ -63,9 +63,20 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
 <!--Languages-->
 <div align="center" >
+  
+### Data Engineering & Cloud
+<a>&nbsp;<img align="center" alt="Apache Airflow" height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apacheairflow/apacheairflow-original.svg"/></a>
+<a>&nbsp;<img align="center" alt="Apache Spark" height="40px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachespark/apachespark-original.svg"/></a>
+<a>&nbsp;<img align="center" alt="Databricks" height="40px" width="40px" src="https://cdn.simpleicons.org/databricks"/></a>
+<a>&nbsp;<img align="center" alt="Snowflake" height="40px" width="40px" src="https://cdn.simpleicons.org/snowflake"/></a>
+<a>&nbsp;<img align="center" alt="Google BigQuery" height="40px" width="40px" src="https://cdn.simpleicons.org/googlebigquery"/></a>
+<a>&nbsp;<img align="center" alt="dbt" height="28px" src="https://img.shields.io/badge/dbt-FF694B?logo=dbt&logoColor=white"/></a>
+<a>&nbsp;<img align="center" alt="Docker" height="40px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg"/></a>
+<br/>
+<br/>
 
-### **_<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30px"> &nbsp; Programming and Markup Languages_**
-
+<!--### **_<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30px"> &nbsp; Programming and Markup Languages_**-->
+### Programming and Markup Languages
   <p>
 
   <a><img align="center" alt="codeSTACKr | C" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"/></a>
@@ -81,11 +92,13 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
 <!--Databases and Cloud Hosting  -->
 
-### **_<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW5vOXVtZGh4a2NydmZpc3p3NXNwc3YyZ2w0bWEzYXRxdmp5YmhneSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jOzq6q92RYEGoJnoV3/giphy.gif" width="30px"> &nbsp; Databases_**
+### Databases
 
 <a>&nbsp;<img align="center" alt="codeSTACKr | Oracle" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | SQL" height="40px" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | SQLite" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg"/></a>  
+<a>&nbsp;<img align="center" alt="codeSTACKr | SQLite" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/97/Sqlite-square-icon.svg"/></a> 
+<a>&nbsp;<img align="center" alt="codeSTACKr | PostgreSQL" height="40px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | MS SQL Server" height="40px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/></a>
 <br/>
 <br/>
 
@@ -93,13 +106,13 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
 <!--  Software and Tools-->
 
-### **_<img src="https://media.giphy.com/media/CAIgh8LKFbIciGx5Qe/giphy.gif" width="30px"> &nbsp; Software and Tools_**
+### Software and Tools
 <a>&nbsp;<img align="center" alt="codeSTACKr | VSCode" height="30px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | GitHub Desktop" height="30px" width="40px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Jupyter Notebook" height="40px" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | PyCharm" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/512px-PyCharm_Icon.svg.png"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Google Colab" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg"/></a>
-<a>&nbsp;<img align="center" alt="codeSTACKr | Anaconda" height="30px" width="50px" src="https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png"/></a>
+<a>&nbsp;<img align="center" alt="codeSTACKr | Anaconda" height="30px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg"/></a>
 <a>&nbsp;<img align="center" alt="codeSTACKr | Git" height="30px" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg"/></a>
 <a>&nbsp;<img align="center" alt="Power BI" height="30px" width="40px" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Desktop.svg?raw=true"/></a>
 <a>&nbsp;<img align="center" alt="MATLAB" height="40px" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg?raw=true"/></a>
@@ -110,7 +123,7 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 
 <!-- Libraries and Frameworks -->
 
-### **_<img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="30px"> &nbsp; Libraries and Frameworks_**
+### Libraries and Frameworks
 
 <p>
 
@@ -121,6 +134,9 @@ src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gi
 <a><img align="center" alt="codeSTACKr | Streamlit" height="70px" width="90px" src="https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F6mk8aoa97px9xhi723o1.jpg"/></a>
 <a><img align="center" alt="codeSTACKr | Plotly" height="70px" width="90px" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png"/></a>
 <a><img align="center" alt="codeSTACKr | Seaborn" height="70px" width="90px" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png"/></a>
+<a><img align="center" alt="codeSTACKr | Scikit-Learn" height="40px" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg"/></a>
+<a><img align="center" alt="codeSTACKr | SQLAlchemy" height="40px" width="50px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg"/></a>
+<a><img align="center" alt="codeSTACKr | PyArrow" height="40px" width="40px" src="https://cdn.simpleicons.org/apachearrow"/></a>
 
 
 
